@@ -1,0 +1,21 @@
+{
+    "name": "shem-node-spider",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cheerio": "0.22.0",
+        "promise": "7.1.1",
+        "superagent": "3.5.2",
+        "superagent-charset": "1.1.1",
+        "node-schedule": "1.2.1"
+    },
+    "devDependencies": {
+
+    }
+}
