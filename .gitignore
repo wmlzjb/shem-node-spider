@@ -1,3 +1,4 @@
 node_modules
 app/src/analyze/*/down-load
 .vscode
+package-lock.json
