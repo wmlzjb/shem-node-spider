@@ -1,1 +1,1 @@
-require('./analyze/_jandan');
+require('./analyze/_juejin');

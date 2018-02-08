@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app/src/app.js"
     },
     "author": "",
     "license": "ISC",
@@ -15,7 +16,5 @@
         "superagent-charset": "1.1.1",
         "node-schedule": "1.2.1"
     },
-    "devDependencies": {
-
-    }
+    "devDependencies": {}
 }
