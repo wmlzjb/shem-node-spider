@@ -1,1 +1,1 @@
-require('./analyze/_juejin');
+import "./analyze/_porn/index.js";

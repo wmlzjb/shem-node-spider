@@ -1,1 +1,1 @@
-require('./app/src/app');
+import "./app/src/app";
