@@ -1,1 +1,1 @@
-import "./analyze/_porn/index.js";
+require("./analyze/_porn/index.js");

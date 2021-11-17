@@ -9,7 +9,6 @@
   },
   "author": "",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
     "cheerio": "1.0.0-rc.10",
     "promise": "8.1.0",
